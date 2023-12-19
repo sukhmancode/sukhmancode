@@ -1,4 +1,4 @@
-<img src="https://rishavchanda.io/"/>
+
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sukhmanpreet Singh</h1>
