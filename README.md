@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **Password Generator**
+- 🔭 I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **Javascript,React,TypeScript**
 
 - 💬 Ask me about **react**
 
